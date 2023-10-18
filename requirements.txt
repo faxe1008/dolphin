@@ -1,0 +1,7 @@
+librosa==0.10.1
+tensorflow==2.14.0
+numpy
+imageio==2.32.0
+audiomentations
+visualkeras
+ascii_magic
