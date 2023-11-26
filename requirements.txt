@@ -5,3 +5,8 @@ imageio==2.32.0
 audiomentations
 visualkeras
 ascii_magic
+scikit-image
+dask
+h5py
+pyaudio
+matplotlib

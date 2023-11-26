@@ -6,7 +6,7 @@ RATE = 44100
 CHUNK = RATE
 
 # Number of Features after extraction
-FEATURE_COUNT = 189
+FEATURE_COUNT = 173
 # Target class count
 CLASS_COUNT = 2
 
